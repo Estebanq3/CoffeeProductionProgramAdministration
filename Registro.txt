@@ -1,0 +1,8 @@
+
+16/03/2021
+Nombre: Esteban
+Cajuelas Recolectadas: 15
+HorasTrabajadas: 8
+Pago: ₡21000
+Finca: FincaAchiote
+--Fin Registro Trabajador--

@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>CafePhoto.jpg</file>
+        <file>coffeCup.jpg</file>
+        <file>Fondo1.jpg</file>
+        <file>BanderaCostaRica.png</file>
+        <file>saveIcon.png</file>
+        <file>Calculadora.ico</file>
+        <file>libreta.png</file>
+        <file>registar.png</file>
+        <file>buscarRegistro.png</file>
+        <file>InformeLapsos.png</file>
+        <file>deuda.png</file>
+        <file>fondo2.jpg</file>
+        <file>fondo3.jpg</file>
+        <file>borrar.png</file>
+        <file>recolectores.png</file>
+        <file>lupa.png</file>
+        <file>FincaChurucaAchiote.png</file>
+        <file>maps.png</file>
+        <file>punteroMaps.png</file>
+        <file>FincasTotales.png</file>
+    </qresource>
+</RCC>
